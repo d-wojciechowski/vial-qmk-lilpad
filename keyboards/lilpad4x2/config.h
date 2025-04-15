@@ -1,0 +1,4 @@
+#define ENCODER_A_PINS { GP11 }
+#define ENCODER_B_PINS { GP12 }
+
+#define ENCODER_RESOLUTION 1
